@@ -1,0 +1,473 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"year",
+				"year_numba"
+			],
+			[
+				"accu",
+				"accuracy_value_test"
+			],
+			[
+				"feed",
+				"feed_dict_test"
+			],
+			[
+				"y_t",
+				"y_test"
+			],
+			[
+				"accurac",
+				"accuracy_value_train"
+			],
+			[
+				"fed",
+				"feed_dict_train"
+			],
+			[
+				"batch",
+				"batch_labels"
+			],
+			[
+				"labe",
+				"labels_placeholder"
+			],
+			[
+				"bat",
+				"batch_size"
+			],
+			[
+				"X_t",
+				"X_train"
+			],
+			[
+				"h2",
+				"h2_biases"
+			],
+			[
+				"hidden",
+				"hidden1"
+			],
+			[
+				"h1",
+				"h1_weights"
+			],
+			[
+				"h0_",
+				"h0_biases"
+			],
+			[
+				"h0",
+				"h0_weights"
+			],
+			[
+				"data",
+				"data_placeholder"
+			],
+			[
+				"n",
+				"n_hidden_units_h1"
+			],
+			[
+				"n_",
+				"n_hidden_units_h1"
+			],
+			[
+				"n_hi",
+				"n_hidden_units_h0"
+			],
+			[
+				"n_hidden",
+				"n_hidden_units_h0"
+			],
+			[
+				"std",
+				"std_leveling_time"
+			],
+			[
+				"lvl",
+				"lvl80_characters"
+			],
+			[
+				"las",
+				"lastlvl70_timestamp"
+			],
+			[
+				"u",
+				"user_id"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"Inst",
+				"InstagramAPI"
+			],
+			[
+				"client_",
+				"client_id"
+			],
+			[
+				"cl",
+				"client_secret"
+			],
+			[
+				"co",
+				"coffeeplaces_df"
+			],
+			[
+				"a",
+				"axis2"
+			],
+			[
+				"boring",
+				"boringpa_df"
+			],
+			[
+				"tes",
+				"test_df"
+			],
+			[
+				"in",
+				"inplace"
+			],
+			[
+				"Fa",
+				"False"
+			],
+			[
+				"set",
+				"set_title"
+			],
+			[
+				"te",
+				"test_df"
+			],
+			[
+				"random",
+				"random_1"
+			],
+			[
+				"tit",
+				"titanic_df"
+			],
+			[
+				"cou",
+				"count_nan_age_test"
+			],
+			[
+				"avg",
+				"average_age_test"
+			],
+			[
+				"st",
+				"std_age_test"
+			],
+			[
+				"ave",
+				"average_age_test"
+			],
+			[
+				"ran",
+				"random_1"
+			],
+			[
+				"count",
+				"count_nan_age_titanic"
+			],
+			[
+				"aver",
+				"average_age_titanic"
+			],
+			[
+				"ax1",
+				"ax1"
+			],
+			[
+				"titanic",
+				"titanic_df"
+			],
+			[
+				"ti",
+				"titanic_df"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/matthewhapenney/Projects/ignreview/igndata.py",
+		"/Users/matthewhapenney/Documents/Projects/ignreview/igndata.py",
+		"/System/Library/PrivateFrameworks/DisplayServices.framework/Versions/A/Resources/framework.sb",
+		"/Users/matthewhapenney/Desktop/tensordemo.py",
+		"/Users/matthewhapenney/Desktop/coding_practice/Pythonpractice/mfclass.py",
+		"/Users/matthewhapenney/Desktop/wowtest.py",
+		"/Users/matthewhapenney/Desktop/wowdata.py",
+		"/Users/matthewhapenney/Desktop/coding_practice/Pythonpractice/sysptest.py",
+		"/Users/matthewhapenney/Desktop/coding_practice/Pythonpractice/instagramvis.py",
+		"/Users/matthewhapenney/Desktop/coding_practice/Pythonpractice/networkvis",
+		"/Users/matthewhapenney/Desktop/coding_practice/Pythonpractice/instagramvis",
+		"/Users/matthewhapenney/Desktop/pokemon.py",
+		"/Users/matthewhapenney/Desktop/coding_practice/Pythonpractice/pokemons_visualization.py",
+		"/Users/matthewhapenney/Desktop/pikachu/pokemon.py",
+		"/Users/matthewhapenney/Desktop/stuff/xls_to_csv_converter.py",
+		"/Users/matthewhapenney/Desktop/testproject/json_to_csv_converter.py",
+		"/Users/matthewhapenney/Downloads/instastats-master/downloader.py",
+		"/Users/matthewhapenney/Desktop/coding_practice/Pythonpractice/fizzbuzz.py",
+		"/Users/matthewhapenney/Desktop/coding_practice/Pythonpractice/titanic_survival_prediction.py",
+		"/Users/matthewhapenney/Desktop/coding_practice/Pythonpractice/painter_by_numbers",
+		"/Users/matthewhapenney/Desktop/stuff/Neuronmodeldraft/Fig4C(old).hoc",
+		"/Users/matthewhapenney/Desktop/stuff/Neuronmodeldraft/geo5038804.hoc",
+		"/Users/matthewhapenney/Desktop/stuff/Neuronmodeldraft/fixnseg.hoc",
+		"/Users/matthewhapenney/Desktop/Neuronmodeldraft/4NPY.hoc",
+		"/Users/matthewhapenney/Desktop/Neuronmodeldraft/Fig4C.hoc",
+		"/Volumes/HAPENNEY/Neuron Code/Basic Neuron Models/persistantfire.hoc",
+		"/usr/include/dns_util.h"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ISI",
+			"forsec",
+			"newplotv",
+			"axon",
+			"api",
+			"instadata",
+			"user",
+			"main",
+			"argv",
+			"main",
+			"client",
+			"lng",
+			"main",
+			"wow",
+			"argv",
+			"arg",
+			"argv",
+			"main",
+			"wow",
+			"lon",
+			"lat",
+			"birthord",
+			"fig",
+			"dataframe",
+			"series",
+			"float",
+			"aspect",
+			"test",
+			"fig",
+			"axis",
+			"axon",
+			"print",
+			"h",
+			"lh",
+			"ghdbar",
+			"na",
+			"Na",
+			"gNav",
+			"gna",
+			"access",
+			"soma",
+			"mechinit",
+			"v",
+			"cvode",
+			"gkdr",
+			"axonm",
+			"gna",
+			"dt",
+			"num",
+			"soma",
+			"num",
+			"geom",
+			"mechinit",
+			"myroot",
+			"nseg",
+			"init",
+			"is_art",
+			"gid",
+			"topol",
+			"connect_sections",
+			"cvode",
+			"axon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 933.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "model.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
